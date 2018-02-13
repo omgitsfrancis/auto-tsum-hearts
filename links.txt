@@ -1,0 +1,15 @@
+Nox - Android Emulator
+https://www.bignox.com/
+
+APKs - tsum tsums and Line
+https://apkpure.com/
+
+Nox settings
+	Advance Settings
+		Performance Settings:	Low
+		Startup Settings	800x600
+	Interface Settings
+		Window Size and...:	Fixed window size
+
+
+pyautogui
