@@ -15,3 +15,14 @@ Script will:
 *	Scroll down to next batch of friends.
 *	Repeat till bottom of friends list.
 
+
+Nox settings:
+
+Advance Settings
+
+- Performance Settings:	Low
+- Startup Settings	800x600
+
+Interface Settings
+
+- Window Size and...:	Fixed window size
